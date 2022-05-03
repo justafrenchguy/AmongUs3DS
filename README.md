@@ -1,2 +1,2 @@
 # AmongUs3DS
-Among Us for 3DS Family
+This homebew is a port of Among Us for 3DS Family
